@@ -1,0 +1,32 @@
+[
+    {
+        "Pseudo": "",
+        "Mot_de_passe": "",
+        "Prenom": "sofia",
+        "Nom": "dell",
+        "Notes": [
+            19,
+            19,
+            6,
+            20,
+            10
+        ],
+        "Point_bonus": 2,
+        "Moyenne_des_notes": 16.8
+    },
+    {
+        "Pseudo": "jj",
+        "Mot_de_passe": "jj",
+        "Prenom": "william",
+        "Nom": "laine",
+        "Notes": [
+            12,
+            1,
+            16,
+            10,
+            15
+        ],
+        "Point_bonus": 2,
+        "Moyenne_des_notes": 12.8
+    }
+]
